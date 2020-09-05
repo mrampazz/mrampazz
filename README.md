@@ -1,6 +1,5 @@
 ## Hey! I'm Marco!
 
-<img align="right" src="./illustration.png">
 
 ### What have I been up to
 - I'm currently on my last year of university @ [UNIPD][uni] studying computer science
