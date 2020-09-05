@@ -28,8 +28,6 @@
 <br />
 
 
----
-
 ## My stats
 
 <img align="left" alt="mrampazz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrampazz&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
