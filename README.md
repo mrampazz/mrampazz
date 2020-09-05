@@ -1,4 +1,3 @@
-# Hey! I'm Marco!
 <img src="https://raw.githubusercontent.com/mrampazz/mrampazz/master/header.png" />
 
 ## What I've been up to
