@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mrampazz/mrampazz/master/header.png" />
+<img align='left' src="https://raw.githubusercontent.com/mrampazz/mrampazz/master/header.png" />
 
 ## What I've been up to
 - I'm currently on my last year of university @ [UNIPD][uni] studying computer science
