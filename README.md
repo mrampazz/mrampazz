@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey! I'm Marco - [mrampazz][website]
 
-<!--
-**mrampazz/mrampazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What have i been up to
+- I'm currently on my last year of university @ [UNIPD][uni] studying computer science
+- I've been focused in learning web development for the past year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Useful links
+ [<img align="left" alt="mrampazz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ [<img align="left" alt="mrampazz@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mail]
+
+---
+
+### Ghub stats
+
+<img align="left" alt="mrampazz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrampazz&show_icons=true&hide_border=true" />
+
+[website]: http://www.mramp.me
+[linkedin]: https://www.linkedin.com/in/mrampazz/
+[mail]: mailto:mrampazz@gmail.com
+[uni]: https://www.unipd.it/
