@@ -1,11 +1,16 @@
 # Hey! I'm Marco!
 
 
-## What have I been up to
+## What I've been up to
 - I'm currently on my last year of university @ [UNIPD][uni] studying computer science
 - I've been focused in learning web development for the past year
 
+## Useful links
+ - [<img align="left" alt="mrampazz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - [linkedin.com/in/mrampazz/][linkedin]
+ - [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - [mramp.me][website]
+ - [<img align="left" alt="mrampazz@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail] - [mrampazz@gmail.com][mail]
 
+<br />
 
 ## What I learned so far
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,14 +27,6 @@
 
 <br />
 
-
-
-## Useful links
- - [<img align="left" alt="mrampazz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - [linkedin.com/in/mrampazz/][linkedin]
- - [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - [mramp.me][website]
- - [<img align="left" alt="mrampazz@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail] - [mrampazz@gmail.com][mail]
-
-<br />
 
 ---
 
