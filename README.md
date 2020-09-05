@@ -10,8 +10,6 @@
  - [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - [mramp.me][website]
  - [<img align="left" alt="mrampazz@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail] - [mrampazz@gmail.com][mail]
 
-<br />
-
 ## My stats
 
 <img align="left" alt="mrampazz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrampazz&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
