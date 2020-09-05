@@ -34,9 +34,9 @@
 
 ---
 
-<img align="left" alt="mrampazz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrampazz&show_icons=true&count_private=true" />
+<img align="left" alt="mrampazz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrampazz&show_icons=true&count_private=true&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrampazz&layout=compact&hide=Swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrampazz&layout=compact&hide=Swif&hide_border=truet)
 
 [website]: http://www.mramp.me
 [linkedin]: https://www.linkedin.com/in/mrampazz/
