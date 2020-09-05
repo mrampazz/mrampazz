@@ -1,4 +1,4 @@
-### Hey! I'm Marco!
+## Hey! I'm Marco!
 
 ### What have I been up to
 - I'm currently on my last year of university @ [UNIPD][uni] studying computer science
