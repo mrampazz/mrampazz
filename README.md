@@ -1,9 +1,4 @@
 <img align='left' src="https://raw.githubusercontent.com/mrampazz/mrampazz/master/header.png" />
-
-## What I've been up to
-- I'm currently on my last year of university @ [UNIPD][uni] studying computer science
-- I've been focused on learning web development for the past year
-
 ## Useful links
  - [<img align="left" alt="mrampazz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [linkedin.com/in/mrampazz/][linkedin]
  - [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [mramp.me][website]
