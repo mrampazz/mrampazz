@@ -4,7 +4,7 @@
  - [<img align="left" alt="mrampazz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [linkedin.com/in/mrampazz/][linkedin]
  - [<img align="left" alt="mramp.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [mramp.me][website]
  - [<img align="left" alt="mrampazz@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][mail]  [mrampazz@gmail.com][mail]
- - [<img align="left" alt="https://gist.github.com/mrampazz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />[gist]
+ - [<img align="left" alt="https://gist.github.com/mrampazz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />][gist]
 
 ## My stats
 
